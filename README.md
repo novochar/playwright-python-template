@@ -1,4 +1,4 @@
-# Playwright python template
+# Playwright Python template
 Playwright Python Docker and Docker Compose template
 
 # dependências
